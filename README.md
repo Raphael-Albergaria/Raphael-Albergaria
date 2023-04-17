@@ -6,11 +6,11 @@
 <p><a href=""><img src="" alt=""></a>
 <img src="https://github-readme-stats.vercel.app/api?username=Raphael-Albergaria&amp;show_icons=true&amp;theme=dark" alt="Raphael GitHub stats"></p>
 <h3 id="-school_satchel-tecnologias-que-estou-estudando">:school_satchel: Tecnologias que estou estudando</h3>
-
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30"/>
-
+</p>
 
 <h3 id="lista-de-pr-ximos-estudos">Lista de próximos estudos</h3>
 <ul>
